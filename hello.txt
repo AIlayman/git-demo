@@ -2,7 +2,7 @@ hello git! 22222
 hello git! 33333
 hello git!
 hello git!
-hello git! my test
+hello git! my test2
 hello git!
 hello git! master test
 hello git! hot-fix test
